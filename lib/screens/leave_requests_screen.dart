@@ -49,7 +49,7 @@ class LeaveRequestsScreen extends StatelessWidget {
 
         bottomNavigationBar: BottomNavigationBar(
           currentIndex: 1,
-          backgroundColor: const Color.fromRGBO(30, 27, 56, 1), // Dark blue
+          backgroundColor: const Color.fromRGBO(30, 27, 56, 1),
           selectedItemColor: Colors.white,
           unselectedItemColor: Colors.grey,
           type: BottomNavigationBarType.fixed,
